@@ -16,6 +16,10 @@
 
 4.返回的是具体实现(不是抽象类)。
 
+- 好处
+
+  
+
 - 示例
 
 [./1_simple_factory_idiom.py](1_simple_factory_idiom.py)
@@ -23,12 +27,25 @@
 # factory method(工厂方法模式)
 
 - 说明
+- 好处
 - 示例
 
 # abstract method(抽象工厂模式) 
 
 - 说明
+
+1.抽象工厂包含多个工厂方法。
+
+- 好处
+
+
+
 - 示例
+- 现实例子
+
+1.factory_boy: https://github.com/FactoryBoy/factory_boy
+
+2.model_bakery: https://github.com/model-bakers/model_bakery
 
 # 总结
 
